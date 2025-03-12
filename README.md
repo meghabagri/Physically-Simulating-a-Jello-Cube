@@ -1,2 +1,2 @@
 # CSCI571
-Compputer Animation and Simulations
+Computer Animation and Simulations
